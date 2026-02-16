@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 
 
-<!--
-**dipanjanaghosh24/dipanjanaghosh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dipanjana 👋
 
-Here are some ideas to get you started:
+✨ Corporate newbie building my journey in finance, data & analytics
+📍 Kolkata, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🚀 About Me -
+Finance & Accounts graduate passionate about turning data into clear business insights.
+I enjoy turning raw data into meaningful business insights using Excel and analytical thinking.
+
+
+🧩 Skills -
+Advanced Excel (Pivot Tables, XLOOKUP, Dynamic Arrays, Dashboards)
+Data Analysis & Reporting
+Financial Analysis
+MS Office | Gen AI Tools
+Power BI & Tally (Learning)
