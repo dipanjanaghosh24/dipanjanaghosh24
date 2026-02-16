@@ -1,9 +1,10 @@
 ## Hi there 
 
-I'm Dipanjana 👋
+<a> I'm Dipanjana 👋
 
 ✨ Corporate newbie building my journey in finance, data & analytics
 📍 Kolkata, India
+</a>
 
 
 🚀 About Me -
